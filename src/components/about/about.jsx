@@ -19,7 +19,7 @@ const About = () => {
                 <p className="about__description">
                     My name is Selassie Kwame Esiape, an aspiring consultant in the Information Systems field.
                     My journey into the Technology field began with a passion for coding back home in Ghana
-                    featuring a wide range of skills ranging from C++ to Javascript programming. Over time,
+                    featuring a wide range of skills ranging from Python to Javascript programming. Over time,
                     I honed my expertise not only in software development but also in the art of effective project
                     management. Currently, I am pursuing my academic endeavors at Brigham Young University,
                     where I am enrolled in the Master of Information Systems program.
