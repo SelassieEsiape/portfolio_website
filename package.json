@@ -2,7 +2,7 @@
   "name": "portfolio_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SelassieEsiape/github.io/PORTFOLIO_WEBSITE",
+  "homepage": "https://SelassieEsiape.github.io/portfolio_website",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -15,8 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "npm run build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
