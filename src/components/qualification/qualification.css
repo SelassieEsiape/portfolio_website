@@ -26,7 +26,7 @@
 }
 
 .qualification__active {
-    color: var(--title-color-dark);
+    color: red;
 }
 
 .qualification__sections {
