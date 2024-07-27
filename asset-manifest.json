@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.473bcb3a.css",
+    "main.js": "/portfolio_website/static/js/main.2c825b63.js",
+    "static/media/selassie_resume.pdf": "/portfolio_website/static/media/selassie_resume.6e015e689bdbcc5d5ad7.pdf",
+    "static/media/selassie.jpg": "/portfolio_website/static/media/selassie.855fc4d3c13fce4e959d.jpg",
+    "index.html": "/portfolio_website/index.html",
+    "main.473bcb3a.css.map": "/portfolio_website/static/css/main.473bcb3a.css.map",
+    "main.2c825b63.js.map": "/portfolio_website/static/js/main.2c825b63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473bcb3a.css",
+    "static/js/main.2c825b63.js"
+  ]
+}
