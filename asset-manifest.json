@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.71a2892e.css",
+    "main.css": "/static/css/main.14140107.css",
     "main.js": "/static/js/main.9eb393d8.js",
     "static/media/selassie_resume.pdf": "/static/media/selassie_resume.6e015e689bdbcc5d5ad7.pdf",
     "static/media/selassie.jpg": "/static/media/selassie.855fc4d3c13fce4e959d.jpg",
     "index.html": "/index.html",
-    "main.71a2892e.css.map": "/static/css/main.71a2892e.css.map",
+    "main.14140107.css.map": "/static/css/main.14140107.css.map",
     "main.9eb393d8.js.map": "/static/js/main.9eb393d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.71a2892e.css",
+    "static/css/main.14140107.css",
     "static/js/main.9eb393d8.js"
   ]
 }
