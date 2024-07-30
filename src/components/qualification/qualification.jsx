@@ -46,11 +46,11 @@ const Qualification = () => {
                     >
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">East Airport International School</h3>
-                            <span className="qualification__subtitle">Ghana - Elementary / High School</span>
+                            <h3 className="qualification__title">Brigham Young University</h3>
+                            <span className="qualification__subtitle">United States - University</span>
 
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt">2006 - 2019</i>
+                                <i className="uil uil-calendar-alt">2021 - Present</i>
                             </div>
                         </div>
 
@@ -70,11 +70,11 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">Brigham Young University</h3>
-                            <span className="qualification__subtitle">United States - University</span>
+                            <h3 className="qualification__title">East Airport International School</h3>
+                            <span className="qualification__subtitle">Ghana - Elementary / High School</span>
 
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt">2021 - Present</i>
+                                <i className="uil uil-calendar-alt">2006 - 2019</i>
                             </div>
                         </div>
                     </div>
