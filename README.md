@@ -7,9 +7,6 @@ Welcome to my portfolio website! This site showcases my skills, and experiences 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -35,31 +32,3 @@ Hello! I'm Selassie Esiape, an Information Systems student at BYU with a passion
 
 - **Other Tools:**
   - Git
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/SelassieEsiape/portfolio-website.git
-
-2. **Navigate to project directory:**
-   ```bash
-   cd portfolio-website
-
-3. **Navigate to project directory:**
-   ```bash
-   cd portfolio-website
-
-4. **Install dependencies:**
-   ```bash
-   npm install
-
-5. **Start the development server:**
-   ```bash
-   npm start
-
-6. **Open your browser and go to:**
-   ```bash
-   http://localhost:3000
