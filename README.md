@@ -48,4 +48,11 @@ To run this project locally, follow these steps:
    ```bash
    cd portfolio-website
 
+2. **Navigate to project directory:**
+   ```bash
+   cd portfolio-website
+
+3. **Install dependencies**
+```bash
+npm install
 
