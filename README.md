@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
 
-2. ** Navigate to project directory:**
+2. **Navigate to project directory:**
    ```bash
    cd portfolio-website
 
